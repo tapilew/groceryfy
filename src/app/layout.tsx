@@ -6,8 +6,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Future World",
-  description: "My shop",
+  title: "Groceryfy",
+  description:
+    "Groceryfy is a grocery store that sells groceries; duh. Powered by AI, btw.",
 };
 
 export default function RootLayout({
